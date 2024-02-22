@@ -5,9 +5,7 @@
   <br>
  Sassan:
   For docker install go to https://hub.docker.com/r/sassan/open-custom-gpt/
-  You can use this command: docker pull sassan/open-custom-gpt
-
-I have included the Dockerfile and the updated package.json, so you can also use it without Docker.
+  You can use this command: docker pull sassan/open-custom-gpt .I have included the Dockerfile and the updated package.json, so you can also use it without Docker.
   
 </h1>
 
